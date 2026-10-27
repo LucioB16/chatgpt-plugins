@@ -1,12 +1,18 @@
-# Lyra & Iterloom — public plugin information
+# Lyra & Iterloom · Plugin Information
 
-Official informational pages for two independent skills-only AI plugins created by **Lucio Bottacin**.
+**Two independent AI workflows, with public documentation and clear support policies.**
 
-- [Lyra](./lyra/) — cross-model prompt optimization
-- [Iterloom](./iterloom/) — evidence-based AI workflow retrospectives
-- [Support](./support/) — public GitHub Issues
-- [Privacy policy](./privacy/) — data categories, processing, recipients, retention, and controls
-- [Terms of service](./terms/) — permitted use and limitations
+This repository hosts the lightweight information site for two skills-oriented ChatGPT plugins by **Lucio Bottacin**. It publishes their descriptions and the support, privacy and terms pages needed to evaluate them.
+
+| Plugin | What it helps with | Learn more |
+| :-- | :-- | :-- |
+| **Lyra** | Transform rough requests into structured, model-aware prompts. | [Lyra](lyra/) |
+| **Iterloom** | Review AI work sessions and extract evidence-based process improvements. | [Iterloom](iterloom/) |
+
+**Public pages:** [Support](support/) · [Privacy policy](privacy/) · [Terms of service](terms/).
+
+> [!NOTE]
+> This is a **buildless information website**, not the plugin implementation or a hosted AI service. It uses static HTML and CSS only. The plugins do not operate a developer-hosted MCP backend from this site.
 
 ## GitHub Pages deployment
 
